@@ -29,4 +29,6 @@
 
 
 ## Some Contributions
-[![PR Accepted](https://img.shields.io/badge/PR%20Accepted-PrimeVue-%23007ec6?style=for-the-badge&logo=github)](https://github.com/primefaces/primevue/pull/7439) Fixed wrong checkbox listener in `TableHeader.vue`.
+[![PR Accepted](https://img.shields.io/badge/PR%20Accepted-PrimeVue-%23007ec6?style=for-the-badge&logo=github)](https://github.com/primefaces/primevue/pull/7439) Fixed wrong checkbox listener in `TableHeader.vue`
+
+[![PR Accepted](https://img.shields.io/badge/PR%20Accepted-PrimeVue-%23007ec6?style=for-the-badge&logo=github)](https://github.com/primefaces/primevue/pull/7893) Fixed dialog missing container template draggability
